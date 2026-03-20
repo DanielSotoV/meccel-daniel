@@ -4,3 +4,4 @@ pandas
 nbformat
 rebound
 plotly
+celluloid
